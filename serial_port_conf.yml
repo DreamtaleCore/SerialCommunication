@@ -1,0 +1,6 @@
+%YAML:1.0
+
+serialPortRead:  /dev/ttyUSB1
+
+serialPortWrite: /dev/ttyUSB0
+
